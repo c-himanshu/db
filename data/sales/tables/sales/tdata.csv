@@ -1,0 +1,998 @@
+1,1,1200,Mastercard,carolina,Basildon,England,United Kingdom,51.5,-1.12
+2,1,1200,Visa,Betina,Parkville,MO,United States,39.2,-94.68
+3,1,1200,Mastercard,Federica e Andrea,Astoria,OR,United States,46.19,-123.83
+4,1,1200,Visa,Gouya,Echuca,Victoria,Australia,-36.13,144.75
+5,2,3600,Visa,Gerd W,Cahaba Heights,AL,United States,33.52,-86.8
+6,1,1200,Visa,LAURENCE,Mickleton,NJ,United States,39.79,-75.24
+7,1,1200,Mastercard,Fleur,Peoria,IL,United States,40.69,-89.59
+8,1,1200,Mastercard,adam,Martin,TN,United States,36.34,-88.85
+9,1,1200,Mastercard,Renee Elisabeth,Tel Aviv,Tel Aviv,Israel,32.07,34.77
+10,1,1200,Visa,Aidan,Chatou,Ile-de-France,France,48.88,2.15
+11,1,1200,Diners,Stacy,New York,NY,United States,40.71,-74.01
+12,1,1200,Amex,Heidi,Eindhoven,Noord-Brabant,Netherlands,51.45,5.47
+13,1,1200,Mastercard,Sean,Shavano Park,TX,United States,29.42,-98.49
+14,1,1200,Visa,Georgia,Eagle,ID,United States,43.7,-116.35
+15,1,1200,Visa,Richard,Riverside,NJ,United States,40.03,-74.96
+16,1,1200,Diners,Leanne,Julianstown,Meath,Ireland,53.68,-6.32
+17,1,1200,Visa,Janet,Ottawa,Ontario,Canada,45.42,-75.7
+18,1,1200,Diners,barbara,Hyderabad,Andhra Pradesh,India,17.38,78.47
+19,2,3600,Visa,Sabine,London,England,United Kingdom,51.53,0.15
+20,1,1200,Diners,Hani,Salt Lake City,UT,United States,40.76,-111.89
+21,1,1200,Visa,Jeremy,Manchester,England,United Kingdom,53.5,-2.22
+22,1,1200,Diners,Janis,Ballynora,Cork,Ireland,51.86,-8.58
+23,1,1200,Mastercard,Nicola,Roodepoort,Gauteng,South Africa,-26.17,27.87
+24,1,1200,Visa,asuman,Chula Vista,CA,United States,32.64,-117.08
+25,1,1200,Mastercard,Lena,Kuopio,Ita-Suomen Laani,Finland,62.9,27.68
+26,1,1200,Visa,Lisa,Sugar Land,TX,United States,29.62,-95.63
+27,1,1200,Diners,Bryan Kerrene,New York,NY,United States,40.71,-74.01
+28,1,1200,Visa,chris,London,England,United Kingdom,51.53,0.15
+29,1,1200,Visa,Maxine,Morton,IL,United States,40.61,-89.46
+30,1,1200,Visa,Family,Los Gatos,CA,United States,37.23,-121.97
+31,1,1200,Mastercard,Katherine,New York,NY,United States,40.71,-74.01
+32,1,1200,Mastercard,Linda,Miami,FL,United States,25.77,-80.19
+33,1,1200,Mastercard,SYLVIA,Vesenaz,Geneve,Switzerland,46.23,6.2
+34,1,1200,Diners,Sheila,Brooklyn,NY,United States,40.65,-73.95
+35,1,1200,Mastercard,Stephanie,Badhoevedorp,Noord-Holland,Netherlands,52.33,4.78
+36,1,1200,Amex,Kelly,Reston,VA,United States,38.97,-77.34
+37,2,3600,Visa,James,Burpengary,Queensland,Australia,-27.17,152.95
+38,1,1200,Visa,jennifer,Phoenix,AZ,United States,33.45,-112.07
+39,1,1200,Mastercard,Anneli,Houston,TX,United States,29.76,-95.36
+40,2,3600,Amex,Ritz,Pittsfield,VT,United States,43.77,-72.81
+41,2,3600,Amex,Sylvia,Pittsfield,VT,United States,43.77,-72.81
+42,1,1200,Mastercard,Marie,Ball Ground,GA,United States,34.34,-84.38
+43,1,1200,Visa,Mehmet Fatih,Helsingor,Frederiksborg,Denmark,56.03,12.62
+44,2,3600,Visa,Anabela,Flossmoor,IL,United States,41.54,-87.68
+45,1,1200,Amex,Nicole,Houston,TX,United States,29.76,-95.36
+46,2,3600,Visa,Christiane,Delray Beach,FL,United States,26.46,-80.07
+47,1,1200,Mastercard,Sari,Newbury,England,United Kingdom,51.4,-1.32
+48,1,1200,Mastercard,simone,Kobenhavn,Kobenhavn,Denmark,55.67,12.58
+49,1,1200,Amex,Vanessa,Sandy Springs,GA,United States,33.92,-84.38
+50,1,1200,Diners,Anupam,Kinsaley,Dublin,Ireland,53.42,-6.18
+51,1,1200,Visa,Karina,Fort Lauderdale,FL,United States,26.12,-80.14
+52,1,1200,Mastercard,Frank,Melbourne,Victoria,Australia,-37.82,144.97
+53,1,1200,Visa,Angela,Ankeny,IA,United States,41.73,-93.61
+54,1,1200,Visa,Darren,Pittsboro,NC,United States,35.72,-79.18
+55,1,1200,Mastercard,Nikki,New Rochelle,NY,United States,40.91,-73.78
+56,1,1200,Visa,chris,Gold Coast,Queensland,Australia,-28,153.43
+57,1,1200,Visa,Stephanie,Brussels,Brussels (Bruxelles),Belgium,50.83,4.33
+58,1,1200,Visa,Anushka,Maple Ridge District Municipality,British Columbia,Canada,49.25,-122.5
+59,1,1200,Mastercard,June,Beachwood,OH,United States,41.46,-81.51
+60,2,3600,Diners,Baybars,Prince Albert,Saskatchewan,Canada,53.2,-105.75
+61,1,1200,Mastercard,Bonnie,Saltsjobaden,Stockholm,Sweden,59.28,18.3
+62,1,1200,Visa,Cindy,Kemble,England,United Kingdom,51.68,-2.02
+63,1,1200,Mastercard,chrissy,W Lebanon,NH,United States,43.65,-72.31
+64,1,1200,Mastercard,Tamar,Headley,England,United Kingdom,51.12,-0.82
+65,2,3600,Mastercard,Deirdre,Lausanne,Vaud,Switzerland,46.53,6.67
+66,1,1200,Mastercard,Bernadett,Southampton,England,United Kingdom,50.9,-1.4
+67,1,1200,Visa,Dottie,Woodsboro,MD,United States,39.53,-77.32
+68,1,1200,Visa,Stefan,Stavanger,Rogaland,Norway,58.97,5.75
+69,1,1200,Visa,Gina,Red Deer,Alberta,Canada,52.27,-113.8
+70,1,1200,Diners,Lynne,Memphis,TN,United States,35.15,-90.05
+71,1,1200,Mastercard,Tammy,Morges,Vaud,Switzerland,46.52,6.5
+72,1,1200,Visa,Kim,Calgary,Alberta,Canada,51.08,-114.08
+73,1,1200,Visa,Bruce,Belleville,Ontario,Canada,44.17,-77.38
+74,1,1200,Visa,Rosa Maria,Cincinnati,OH,United States,39.16,-84.46
+75,1,1200,Visa,Lydia,Comox,British Columbia,Canada,49.68,-124.93
+76,1,1200,Visa,Eric,Gasperich,Luxembourg,Luxembourg,49.59,6.12
+77,1,1200,Mastercard,AnaPaula,Helens Bay,Northern Ireland,United Kingdom,54.65,-5.73
+78,1,1200,Visa,Robin,Milan,Lombardy,Italy,45.47,9.2
+79,1,1200,Visa,Gitte,Staten Island,NY,United States,40.64,-74.16
+80,1,1200,Visa,Dr. Claudia,Oslo,Oslo,Norway,59.92,10.75
+81,1,1200,Visa,Crystal,Farmington,Michigan,United States,42.46,-83.38
+82,1,1200,Diners,Delphine,Santa Monica,CA,United States,34.02,-118.49
+83,1,1200,Visa,nathalie,Calgary,Alberta,Canada,51.08,-114.08
+84,1,1200,Mastercard,Lindi,Vancouver,British Columbia,Canada,49.25,-123.13
+85,2,3600,Mastercard,Valda,Irvine,CA,United States,33.67,-117.82
+86,2,3600,Mastercard,Marcia,Telgte,Nordrhein-Westfalen,Germany,52.33,7.9
+87,1,1200,Mastercard,Kevin,Cheltenham,England,United Kingdom,51.9,-2.08
+88,1,1200,Visa,Clare,Keller,VA,United States,37.62,-75.76
+89,1,1200,Visa,Alice,Nakskov,Storstrom,Denmark,54.83,11.15
+90,1,1200,Mastercard,ZENA,Honolulu,HI,United States,21.31,-157.86
+91,1,1200,Visa,Andrea,Bubuieci,Chisinau,Moldova,46.99,28.94
+92,1,1200,Visa,Rennae,Amelia Island,FL,United States,30.67,-81.46
+93,1,1200,Visa,Gerhard,Alliston,Ontario,Canada,44.15,-79.87
+94,1,1200,Amex,Megan,La Alberca,Murcia,Spain,37.93,-1.13
+95,1,1200,Mastercard,Danielle,Rathgar,Dublin,Ireland,53.31,-6.27
+96,1,1200,Mastercard,Tod,Coral Gables,FL,United States,25.72,-80.27
+97,1,1200,Visa,Janaina,Miami,FL,United States,25.77,-80.19
+98,1,1200,Visa,Kofi,Vancouver,British Columbia,Canada,49.25,-123.13
+99,1,1200,Visa,Jennifer,Jumeira,Dubai,United Arab Emirates,25.21,55.25
+100,1,1200,Visa,Jolene,Englewood,CO,United States,39.65,-104.99
+101,1,1200,Mastercard,anne,Bournemouth,England,United Kingdom,50.72,-1.88
+102,1,1200,Mastercard,Alexis,Genoa,IL,United States,42.1,-88.69
+103,1,1200,Visa,Dez,Al 'Adliyah,Al Manamah,Bahrain,26.22,50.54
+104,1,1200,Visa,Stephanie,Rouen,Upper Normandy,France,49.43,1.08
+105,1,1200,Visa,Melissa,Parkland,FL,United States,26.31,-80.24
+106,1,1200,Amex,CLARE,San Francisco,CA,United States,37.78,-122.42
+107,1,1200,Mastercard,catherine,Keller,VA,United States,37.62,-75.76
+108,1,1200,Visa,Veronique,Tsawwassen,British Columbia,Canada,49.02,-123.08
+109,1,1200,Mastercard,Bruce and Camille,Clinton,NJ,United States,40.64,-74.91
+110,1,1200,Mastercard,Ellen,Owensboro,KY,United States,37.77,-87.11
+111,1,1200,Visa,Amy,Lakewood Village,TX,United States,33.14,-96.97
+112,1,1200,Visa,Anna,Okotoks,Alberta,Canada,50.72,-113.97
+113,1,1200,Mastercard,Regina,Glimmen,Groningen,Netherlands,53.13,6.63
+114,1,1200,Visa,Heidi,Calgary,Alberta,Canada,51.08,-114.08
+115,1,1200,Visa,Jessica,Kanata,Ontario,Canada,45.33,-75.9
+116,1,1200,Diners,Petra,Bergen,Nordrhein-Westfalen,Germany,51.72,6.5
+117,1,1200,Visa,Brian,College Park,MD,United States,38.98,-76.94
+118,1,1200,Visa,Kenny,Kailua Kona,HI,United States,19.73,-155.9
+119,1,1200,Amex,ayse,Redondo Beach,CA,United States,33.85,-118.39
+120,1,1200,Amex,Maria and Timothy,Fountain Hls,AZ,United States,33.61,-111.72
+121,1,1200,Visa,IMAN,Brisbane,Queensland,Australia,-27.5,153.02
+122,1,2100,Mastercard,Gerald,Mahopac,NY,United States,41.37,-73.73
+123,1,1200,Mastercard,Annelies,Ile-Perrot,Quebec,Canada,45.4,-73.93
+124,1,1200,Amex,Jocelyn,Bruxelles,Brussels (Bruxelles),Belgium,50.83,4.33
+125,1,1200,Visa,Kara,Chicago,IL,United States,41.85,-87.65
+126,1,1200,Visa,Orsi,Rayford,TX,United States,30.08,-95.42
+127,1,1200,Visa,Ben,Escondido,CA,United States,33.12,-117.09
+128,1,1200,Visa,Sam,Tesvikiye,Istanbul,Turkey,40.62,29.07
+129,1,1200,Visa,Filip and Teresa,Centurion,Gauteng,South Africa,-25.87,28.17
+130,1,1200,Visa,Grace,York,England,United Kingdom,53.97,-1.08
+131,1,1200,Visa,Chelsey,Ashburn,VA,United States,39.04,-77.49
+132,1,1200,Amex,Charis,Los Angeles,CA,United States,34.05,-118.24
+133,1,1200,Visa,Marlene,Edgewood,WA,United States,47.25,-122.29
+134,1,1200,Visa,Fie,New York,NY,United States,40.71,-74.01
+135,1,1200,Diners,Nicole,Basingstoke,England,United Kingdom,51.27,-1.08
+136,1,1200,Diners,Linda,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+137,1,1200,Visa,Janet,Marietta,GA,United States,33.95,-84.55
+138,1,1200,Mastercard,Jamie,Houston,TX,United States,29.76,-95.36
+139,1,1200,Visa,Chad,West Orange,NJ,United States,40.8,-74.24
+140,1,1200,Mastercard,sunny,Amsterdam,Noord-Holland,Netherlands,52.35,4.92
+141,1,1200,Visa,Anna,Downey,CA,United States,33.94,-118.13
+142,1,1200,Diners,Roger,Urlingford,Kilkenny,Ireland,52.72,-7.58
+143,1,1200,Mastercard,Si,Holte,Kobenhavn,Denmark,55.82,12.47
+144,1,1200,Visa,Sherri,Freienbach,Schwyz,Switzerland,47.2,8.75
+145,1,1200,Mastercard,Katherine,Hofheim am Taunus,Hessen,Germany,50.08,8.45
+146,1,1200,Mastercard,Clare,Lafayette,CA,United States,37.89,-122.12
+147,1,1200,Amex,Campbell,Mushrif,,Kuwait,29.29,48.05
+148,1,1200,Visa,Ruth,Nashville,AR,United States,33.95,-93.85
+149,2,3600,Visa,Cheryl,New Malden,England,United Kingdom,51.42,-0.25
+150,1,1200,Visa,Doug,Bishop Auckland,England,United Kingdom,54.65,-1.67
+151,3,7500,Mastercard,Julianne,Navan,Meath,Ireland,53.65,-6.68
+152,1,1200,Visa,Shailesh,Joppa,MD,United States,39.43,-76.36
+153,1,1200,Visa,Conrad,Joppa,MD,United States,39.43,-76.36
+154,1,1200,Diners,Alison,Hampton,NJ,United States,40.71,-74.96
+155,1,1200,Mastercard,Tracy,Louisville,KY,United States,38.25,-85.76
+156,1,1200,Visa,Kate,Broadlands,VA,United States,39.04,-77.49
+157,1,1200,Diners,Sarka,Yellowknife,Northwest Territories,Canada,62.45,-114.35
+158,2,3600,Visa,Therese,Los Angeles,CA,United States,34.05,-118.24
+159,2,3600,Visa,Abdul-L,New York,NY,United States,40.71,-74.01
+160,2,3600,Visa,heidi,Saint Paul,MN,United States,44.94,-93.09
+161,2,3600,Visa,jiyoung,New York,NY,United States,40.71,-74.01
+162,1,1200,Visa,Klara,Spring Lake Park,MN,United States,45.11,-93.24
+163,1,1200,Mastercard,Andrew,Winnipeg,Manitoba,Canada,49.88,-97.17
+164,1,1200,Visa,Vicki and Bill,Seattle,WA,United States,47.61,-122.33
+165,1,1200,Mastercard,David,Deptford,NJ,United States,39.84,-75.15
+166,1,1200,Mastercard,Antonella,Amsterdam,Noord-Holland,Netherlands,52.35,4.92
+167,1,1200,Visa,David,Alpharetta,GA,United States,34.08,-84.29
+168,1,1200,Visa,Greg,Washington,DC,United States,38.9,-77.04
+169,1,1200,Visa,Jannik,Holmenkollen,Oslo,Norway,59.97,10.67
+170,1,1200,Visa,Sylvia,Zekeriyakoy,Istanbul,Turkey,41.2,29.03
+171,1,1200,Amex,Bernadette,Washington,DC,United States,38.9,-77.04
+172,1,1200,Diners,Denise,Montreal,Quebec,Canada,45.5,-73.58
+173,2,3600,Visa,Caren,Braunschweig,Lower Saxony,Germany,52.27,10.53
+174,1,1200,Visa,luciana,Athens,GA,United States,33.96,-83.38
+175,1,1200,Diners,Maja,Hoschton,GA,United States,34.1,-83.76
+176,2,3600,Visa,Kristen,Binningen,Basel-Country,Switzerland,47.53,7.57
+177,1,1200,Visa,Kirstie,Royal Oak,MI,United States,42.49,-83.14
+178,1,1200,Visa,Scott,Royal Oak,MI,United States,42.49,-83.14
+179,1,1200,Mastercard,Jammie,Belmont,MA,United States,42.4,-71.18
+180,1,1200,Mastercard,Frank,Old Greenwich,CT,United States,41.02,-73.57
+181,1,1200,Mastercard,scott,Coconut Grove,FL,United States,25.71,-80.26
+182,1,1200,Visa,Jiri,Vienna,VA,United States,38.9,-77.27
+183,2,3600,Visa,Bev,San Ramon,CA,United States,37.78,-121.98
+184,1,1200,Visa,Dave and Amy,Norfolk,VA,United States,36.85,-76.29
+185,1,1200,Mastercard,Rebecca,Norfolk,VA,United States,36.85,-76.29
+186,1,1200,Visa,Melissa,Aberdeen,Scotland,United Kingdom,57.13,-2.1
+187,1,1200,Amex,jeremy,Charlestown,New South Wales,Australia,-32.95,151.67
+188,1,1200,Visa,Randy,Wigan,England,United Kingdom,53.53,-2.62
+189,1,1200,Visa,Djeiny,Rockville,MD,United States,39.02,-77.21
+190,3,7500,Mastercard,Amanda,Shreveport,LA,United States,32.53,-93.75
+191,1,1200,Mastercard,Andrea,Shreveport,LA,United States,32.53,-93.75
+192,1,1200,Amex,Joanna,Little Silver,NJ,United States,40.34,-74.05
+193,1,1200,Visa,Jessica,Abbey Town,England,United Kingdom,54.83,-3.28
+194,1,1200,Amex,alison,Mid City West,PA,United States,39.95,-75.16
+195,1,1200,Visa,malin,Atlanta,Georgia,United States,33.75,-84.39
+196,2,3600,Visa,Tiffany,Paris,Ile-de-France,France,48.87,2.33
+197,1,1200,Visa,Genevieve,Milton Keynes,England,United Kingdom,52.03,-0.7
+198,1,1200,Mastercard,Saraya,Dresden,Saxony,Germany,51.05,13.75
+199,1,1200,Mastercard,Anastasia,NYC,NY,United States,40.71,-74.01
+200,1,1200,Visa,Elizabeth,The Grange,Queensland,Australia,-24.82,152.42
+201,1,1200,Visa,Nicole,Brookline,MA,United States,42.33,-71.12
+202,1,1200,Visa,Jeffrey,Montreal-Nord,Quebec,Canada,45.6,-73.62
+203,1,1200,Mastercard,Blanca Gabriela,Irving,TX,United States,32.81,-96.95
+204,1,1200,Amex,Elisa,Ottawa Hills,OH,United States,41.66,-83.64
+205,2,3600,Mastercard,Patricia,Portola Valley,CA,United States,37.38,-122.23
+206,1,1200,Visa,Bob,Sydney,New South Wales,Australia,-33.88,151.22
+207,3,7500,Visa,Kristyn,Kearns,UT,United States,40.66,-112
+208,1,1200,Visa,Elizabeth,Wollongong,New South Wales,Australia,-34.43,150.88
+209,1,1200,Amex,Cathy,Brooklyn,NY,United States,40.65,-73.95
+210,2,3600,Amex,Kaylee,Penngrove,CA,United States,38.3,-122.67
+211,1,1200,Visa,suzanne,Lemont,IL,United States,41.67,-88
+212,1,1200,Mastercard,Cassandra,San Carlos,CA,United States,37.51,-122.26
+213,1,1200,Mastercard,Jennifer,Chicago,IL,United States,41.85,-87.65
+214,1,1200,Visa,nicole,Oslo,Oslo,Norway,59.92,10.75
+215,1,1200,Visa,Sean,Wantagh,NY,United States,40.68,-73.51
+216,1,1200,Mastercard,Morgan,Coomera,Queensland,Australia,-27.88,153.3
+217,1,1200,Diners,Harriet,Fort Oglethorpe,GA,United States,34.95,-85.26
+218,1,1200,Mastercard,Janine,Corbin City,NJ,United States,39.24,-74.82
+219,1,1200,Mastercard,Debora,Lakeside,CA,United States,32.86,-116.92
+220,1,1200,Visa,Vishpala,Margate,FL,United States,26.31,-80.24
+221,1,1200,Amex,Emer,South Palm Beach,FL,United States,26.71,-80.04
+222,1,1200,Diners,john,New York,NY,United States,40.71,-74.01
+223,1,1200,Mastercard,lailani,Anchorage,AK,United States,61.22,-149.9
+224,2,3600,Visa,STEPHANIE,Mona Vale,New South Wales,Australia,-33.67,151.3
+225,1,1200,Visa,Tricia,Castricum,Noord-Holland,Netherlands,52.55,4.67
+226,1,1200,Visa,Celina,North Brunswick,NJ,United States,40.45,-74.48
+227,2,3600,Visa,Rosemary,Jacksonville,FL,United States,30.33,-81.66
+228,1,1200,Visa,Patrick,Baytown,TX,United States,29.74,-94.98
+229,1,1200,Mastercard,Jacob,Winter Haven,FL,United States,28.02,-81.73
+230,1,1200,Visa,elisabeth,Gonzaga Univ,WA,United States,47.66,-117.43
+231,2,3600,Visa,ayelet,Malmo,Skane,Sweden,55.6,13
+232,2,3600,Visa,seemab,San Pawl tat-Targa,,Malta,35.92,14.44
+233,2,3600,Amex,Lucien,Wiesbaden,Hessen,Germany,50.08,8.25
+234,1,1200,Visa,Kevin,London,England,United Kingdom,51.53,0.15
+235,1,1200,Mastercard,Liban,Stavanger,Rogaland,Norway,58.97,5.75
+236,2,3600,Diners,Lesley,Cork,Cork,Ireland,51.9,-8.5
+237,1,1200,Visa,Marie,Winchester,MA,United States,42.45,-71.14
+238,1,1200,Visa,Charlene,Calgary,Alberta,Canada,51.08,-114.08
+239,1,1200,Visa,Orit,Dallas,TX,United States,32.78,-96.8
+240,1,1200,Visa,Alan,Malahide,Dublin,Ireland,53.45,-6.15
+241,2,3600,Mastercard,Anja Langer,Saint Paul,MN,United States,44.94,-93.09
+242,1,1200,Visa,Lina,Edinburgh,Scotland,United Kingdom,55.95,-3.2
+243,1,1200,Amex,Larry,Naarden,Noord-Holland,Netherlands,52.3,5.15
+244,1,1200,Visa,Jessica,Oldenburg,Lower Saxony,Germany,53.17,8.2
+245,3,7500,Visa,Marion,Rennes,Brittany,France,48.08,-1.68
+246,1,1200,Amex,Eric,Ely,NV,United States,39.25,-114.89
+247,1,1200,Amex,Miriane,Norfolk,VA,United States,36.85,-76.29
+248,1,1200,Visa,Jeff,Houston,TX,United States,29.76,-95.36
+249,1,1200,Diners,christina,Chepel,Budapest,Hungary,47.42,19.08
+250,1,1200,Mastercard,Shannon,Buffalo Grove,IL,United States,41.98,-89.6
+251,1,1200,Mastercard,Angela,Newburgh,Scotland,United Kingdom,56.33,-3.25
+252,1,1200,Visa,Angela,Vienna,Vienna,Austria,48.2,16.37
+253,1,1200,Mastercard,Elaine,Vicenza,Veneto,Italy,45.55,11.55
+254,1,1200,Visa,Helen,Mechanics Grove,PA,United States,39.9,-76.16
+255,2,3600,Amex,Fatisha,Miami,FL,United States,25.77,-80.19
+256,1,1200,Visa,Nina,Silver Spring,MD,United States,38.99,-77.03
+257,2,3600,Visa,Barbara,Kirriemuir,Scotland,United Kingdom,56.67,-3
+258,1,1200,Diners,Karen,Roquefort,Provence-Alpes-Cote d'Azur,France,43.25,5.62
+259,1,1200,Visa,Georgina,Portland,OR,United States,45.52,-122.68
+260,1,1200,Diners,Kellie,Staten Island,NY,United States,40.56,-74.13
+261,1,1200,Mastercard,Terry,San Antonio,TX,United States,29.42,-98.49
+262,2,3600,Visa,LAURIE,Guildford,England,United Kingdom,51.22,-0.57
+263,1,1200,Visa,frauke,Horten,Vestfold,Norway,59.41,10.47
+264,2,3600,Mastercard,Cindy,Englewood,CO,United States,39.65,-104.99
+265,1,1200,Visa,Simone,San Antonio,TX,United States,29.42,-98.49
+266,1,1200,Visa,Hilde,Princeville,HI,United States,22.22,-159.49
+267,1,1200,Visa,Leah,Castleknock,Dublin,Ireland,53.38,-6.39
+268,1,1200,Visa,Laine,Castleknock,Dublin,Ireland,53.38,-6.39
+269,1,1200,Visa,kirsten,Bishops Stortford,England,United Kingdom,51.87,0.17
+270,2,3600,Mastercard,Elizabeth,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+271,1,1200,Mastercard,Anna,Lafayette,CA,United States,37.89,-122.12
+272,1,1200,Diners,Babs,Blackpool,England,United Kingdom,53.82,-3.05
+273,1,1200,Mastercard,Gerlinde,Hellerup,Kobenhavn,Denmark,55.73,12.58
+274,1,1200,Mastercard,Hollyn,London,England,United Kingdom,51.51,-0.09
+275,1,1200,Visa,leiser,N Java,NY,United States,42.68,-78.34
+276,2,3600,Mastercard,Irene,Munich,Bayern,Germany,48.15,11.58
+277,1,1200,Amex,Lisa,Brulon,Pays de la Loire,France,47.97,-0.23
+278,1,1200,Visa,Ann,Austin,TX,United States,30.27,-97.74
+279,1,1200,Mastercard,Nichol Jane,Midland Park,NJ,United States,40.99,-74.14
+280,1,1200,Amex,Beatriz,Centerport,NY,United States,40.89,-73.38
+281,1,1200,Mastercard,corina,Neustift am Walde,Vienna,Austria,48.25,16.3
+282,1,1200,Mastercard,manon,Neustift am Walde,Vienna,Austria,48.25,16.3
+283,1,1200,Diners,Isabelle,Shorewood,MN,United States,44.9,-93.57
+284,1,1200,Visa,Lynne,Southlake,TX,United States,32.94,-97.13
+285,1,1200,Mastercard,Doug,Huntington,NY,United States,40.87,-73.43
+286,1,1200,Mastercard,AMY,The Woodlands,TX,United States,30.16,-95.49
+287,1,1200,Visa,Kim,Kelowna,British Columbia,Canada,49.9,-119.48
+288,1,1200,Mastercard,HELIDA,White House,TN,United States,36.47,-86.65
+289,1,1200,Visa,Cameron,Rungsted,Frederiksborg,Denmark,55.88,12.54
+290,1,1200,Mastercard,Wendy,Lake Mahopac,NY,United States,41.37,-73.73
+291,2,3600,Mastercard,Jane,Biot,Provence-Alpes-Cote d'Azur,France,43.63,7.1
+292,2,3600,Visa,shelby,Plantation,FL,United States,26.12,-80.14
+293,1,1200,Mastercard,Tara,Killiney,Dublin,Ireland,53.25,-6.11
+294,1,1200,Amex,James,Guer,Brittany,France,47.9,-2.12
+295,1,800,Amex,Heloise,Arlington,VA,United States,38.89,-77.08
+296,1,1200,Mastercard,Gabriel,Three Hills,Alberta,Canada,51.7,-113.27
+297,1,1200,Visa,Jodie,Great Falls,Virginia,United States,39,-77.29
+298,1,1200,Amex,Jeremy,London,England,United Kingdom,51.53,0.15
+299,1,1200,Visa,Helga,Clontarf,Dublin,Ireland,53.36,-6.22
+300,1,1200,Visa,Eleanor,Vancouver,British Columbia,Canada,49.25,-123.13
+301,1,1200,Diners,Miss,London,England,United Kingdom,51.53,0.15
+302,1,1200,Visa,Marie,Dickerson,MD,United States,39.22,-77.42
+303,1,1200,Mastercard,Lisa,Princeton,NJ,United States,40.35,-74.66
+304,1,1200,Mastercard,Priska,Calgary,Alberta,Canada,51.08,-114.08
+305,1,1200,Visa,Katrine,North Tustin,CA,United States,33.76,-117.79
+306,1,1200,Amex,Lisa,Gurgaon,Haryana,India,28.47,77.03
+307,1,1200,Visa,Sabrina,Rambouillet,Ile-de-France,France,48.65,1.83
+308,1,1200,Visa,prof,Gladwyne,PA,United States,40.04,-75.28
+309,1,1200,Mastercard,KeithMichelle,Houston,TX,United States,29.76,-95.36
+310,1,1200,Mastercard,Kim,London,England,United Kingdom,51.53,0.15
+311,1,1200,Visa,anissa,Slough,England,United Kingdom,51.5,-0.58
+312,1,1200,Mastercard,john,Glan-Munchweiler,Rhineland-Palatinate,Germany,49.47,7.43
+313,2,3600,Visa,Miye,Downingtown,PA,United States,40.01,-75.7
+314,1,1200,Diners,Heidi,MT Pleasant,TX,United States,33.16,-94.97
+315,1,1200,Mastercard,T,Veigy-Foncenex,Rhone-Alpes,France,46.27,6.25
+316,2,3600,Visa,Daniele,Katy,TX,United States,29.79,-95.82
+317,1,1200,Diners,luisa,Gorey,,Jersey,49.2,-2.03
+318,1,1200,Visa,Nadine,Belgrade,MT,United States,45.78,-111.18
+319,1,1200,Mastercard,Tina,Calgary,Alberta,Canada,51.08,-114.08
+320,1,1200,Diners,Damali,Toronto,Ontario,Canada,43.67,-79.42
+321,1,1200,Visa,Katherine,Corrales,NM,United States,35.24,-106.61
+322,1,1200,Visa,Kathryn,Cork,Cork,Ireland,51.9,-8.5
+323,1,1200,Diners,Veronique,Tenafly,NJ,United States,40.93,-73.96
+324,1,1200,Visa,Erica,Leesburg,VA,United States,39.12,-77.56
+325,1,1200,Visa,L,Alcona,Ontario,Canada,50.07,-91.75
+326,1,1200,Mastercard,Diana,Kuala Lumpur,Kuala Lumpur,Malaysia,3.17,101.7
+327,1,1200,Mastercard,Emma,Sydney,New South Wales,Australia,-33.88,151.22
+328,1,1200,Visa,Marina,Nerang,Queensland,Australia,-27.98,153.33
+329,1,1200,Mastercard,Natalie,Bryceville,FL,United States,30.38,-81.94
+330,1,1200,Diners,Brenda,Saffron Walden,England,United Kingdom,52.02,0.25
+331,1,1200,Diners,Nita,Sutton,Dublin,Ireland,53.39,-6.12
+332,1,1200,Mastercard,Marian,Durban,KwaZulu-Natal,South Africa,-29.85,31.02
+333,1,1200,Visa,Kevin,Berkeswell,England,United Kingdom,52.4,-1.63
+334,1,1200,Visa,cari,Dryden,VA,United States,36.78,-82.94
+335,1,1200,Visa,Cassandra,Santry,Dublin,Ireland,53.4,-6.26
+336,1,1200,Amex,Christof and Heidi,Barcelona,Catalonia,Spain,41.38,2.18
+337,1,1200,Visa,Ina,Fayetteville,NC,United States,35.05,-78.88
+338,1,1200,Visa,Lisa,Anse Comeau,Quebec,Canada,49.22,-68.15
+339,1,1200,Visa,Camille and Carmen,Thorlakshofn,,Iceland,63.85,-21.37
+340,2,3600,Visa,Trina,Overland,KS,United States,38.98,-94.67
+341,1,1200,Visa,Ginger,King City,Ontario,Canada,43.93,-79.53
+342,1,1200,Visa,breon,Leighton Buzzard,England,United Kingdom,51.92,-0.65
+343,1,1200,Visa,Marion,Umea,Vasterbotten,Sweden,63.83,20.25
+344,1,1200,Mastercard,Pia,Sola,Rogaland,Norway,58.88,5.6
+345,1,1200,Visa,Dr. Donald,Stockton-on-Tees,England,United Kingdom,54.58,-1.42
+346,2,3600,Visa,Jenna and Paul,Senatobia,MS,United States,34.62,-89.97
+347,1,1200,Mastercard,Rebecca,Berlin,Berlin,Germany,52.52,13.4
+348,1,1200,Mastercard,Monique,Waldorf,MD,United States,38.62,-76.94
+349,1,1200,Diners,lilia,Brooklyn,NY,United States,40.65,-73.95
+350,1,1200,Mastercard,Lainey,Lakeville,MN,United States,44.65,-93.24
+351,2,3600,Mastercard,Jag,Saint-Cergues,Rhone-Alpes,France,46.23,6.32
+352,1,1200,Mastercard,Charlene,Vancouver,British Columbia,Canada,49.25,-123.13
+353,1,1200,Amex,Fiona,Stamford,CT,United States,41.05,-73.54
+354,1,1200,Mastercard,burt,Rathfarnham,Dublin,Ireland,53.3,-6.28
+355,2,3600,Visa,Maggie,Paris,Ile-de-France,France,48.87,2.33
+356,1,1200,Mastercard,Stanford,Howell,MI,United States,42.61,-83.93
+357,1,1200,Amex,ruth,Encinitas,CA,United States,33.04,-117.29
+358,1,1200,Visa,Courtney,Atchison,KS,United States,39.56,-95.12
+359,2,3600,Amex,Courtney,Mililani,HI,United States,21.43,-157.96
+360,1,1200,Diners,Anthony,Victor,NY,United States,42.98,-77.41
+361,1,1200,Visa,Eleanor,Fairbanks,AK,United States,64.84,-147.72
+362,1,1200,Visa,GAIA,Soro,Vestsjalland,Denmark,55.43,11.57
+363,1,1200,Mastercard,Zane,Warlingham,England,United Kingdom,51.3,-0.05
+364,1,1200,Mastercard,Beate,Hamburg,Hamburg,Germany,53.55,10
+365,1,1200,Amex,BALA,Accokeek,MD,United States,38.67,-77.03
+366,1,1200,Visa,Mrs,Sunnyvale,CA,United States,37.37,-122.04
+367,1,1200,Diners,Vanessa,Ithaca,NY,United States,42.44,-76.5
+368,1,1200,Amex,Amanda,Houston,TX,United States,29.76,-95.36
+369,1,1200,Mastercard,alex,Farmingtn Hls,MI,United States,42.46,-83.38
+370,1,1200,Mastercard,T,Brooklyn,NY,United States,40.65,-73.95
+371,1,1200,Mastercard,Alva and Martin,Great Falls,VA,United States,39,-77.29
+372,1,1200,Visa,Anett,Gosport,England,United Kingdom,50.8,-1.13
+373,2,3600,Mastercard,Jacqui,Scottsdale,AZ,United States,33.51,-111.9
+374,1,1200,Visa,KERRY,Sunnyvale,CA,United States,37.37,-122.04
+375,1,1200,Visa,DeeDee,Songnae-dong,Soul-t'ukpyolsi,South Korea,37.53,127.12
+376,2,3600,Mastercard,leanne,Clyde Hill,WA,United States,47.61,-122.2
+377,1,1200,Visa,katie,Ruschlikon,Zurich,Switzerland,47.3,8.55
+378,1,1200,Visa,Marina,Minneapolis,MN,United States,44.98,-93.26
+379,1,1200,Visa,camilla,Chicago,IL,United States,41.85,-87.65
+380,1,1200,Visa,pirunkit,Petworth,England,United Kingdom,50.98,-0.6
+381,1,1200,Diners,Kathrin,Abu Dhabi,Abu Zaby,United Arab Emirates,24.47,54.37
+382,1,1200,Mastercard,Kate,Stockholm,Stockholm,Sweden,59.33,18.05
+383,1,1200,Mastercard,Maie,Queen Creek,AZ,United States,33.25,-111.63
+384,1,1250,Mastercard,verena,Queen Creek,AZ,United States,33.25,-111.63
+385,1,1200,Visa,Marie-Christine,Durham,NC,United States,35.99,-78.9
+386,1,1200,Mastercard,Gabriella,Austin,TX,United States,30.27,-97.74
+387,1,1200,Mastercard,valerie et nicolas,Glenn Dale,MD,United States,38.99,-76.82
+388,1,1200,Visa,Nicole,Aardal,Sogn og Fjordane,Norway,61.55,6.35
+389,1,1200,Visa,Renee,Edinburg,TX,United States,26.3,-98.16
+390,1,1200,Mastercard,Nicole,South Melbourne,Victoria,Australia,-37.83,144.97
+391,1,1200,Mastercard,Joachim,Fortaleza,Ceara,Brazil,-3.72,-38.5
+392,1,1200,Visa,Monica,Weston,CT,United States,41.2,-73.38
+393,1,1200,Visa,Nanci,Reading,England,United Kingdom,51.43,-1
+394,1,1200,Mastercard,Laura,Coconut Grove,FL,United States,25.71,-80.26
+395,1,1200,Visa,ciara and mike,London,England,United Kingdom,51.51,-0.09
+396,1,1200,Visa,Sarah,San Francisco,CA,United States,37.78,-122.42
+397,2,3600,Mastercard,Anne-line,Zug,Zug,Switzerland,47.17,8.52
+398,2,3600,Mastercard,Ulrika,Scottsdale,AZ,United States,33.51,-111.9
+399,1,1200,Amex,leigh,Potomac Falls,VA,United States,39.05,-77.4
+400,1,1200,Mastercard,Nuria,Superior,CO,United States,39.98,-105.13
+401,1,1200,Mastercard,Tejal,London,England,United Kingdom,51.53,0.15
+402,1,1200,Mastercard,Ignacio,Engleside,VA,United States,38.8,-77.05
+403,1,1200,Visa,ZOE,New Plymouth City,Taranaki,New Zealand,-39.07,174.08
+404,1,1200,Mastercard,nihan,Roanoke,VA,United States,37.21,-80.04
+405,1,1200,Visa,alan,Norcross,GA,United States,33.94,-84.21
+406,1,1200,Amex,lydia,Sandy Plains,GA,United States,34.02,-84.36
+407,1,1200,Visa,Tracey,Saint Catharines,Ontario,Canada,43.17,-79.23
+408,1,1200,Visa,Anja,Gainesville,VA,United States,38.8,-77.61
+409,1,1200,Diners,Jennifer,Nordstrand,Oslo,Norway,59.86,10.79
+410,1,1200,Visa,Holly,Arlington,MA,United States,42.42,-71.16
+411,1,1200,Diners,megan,West Hills,CA,United States,34.2,-118.6
+412,1,1200,Mastercard,Tarah,San Jose,CA,United States,37.34,-121.89
+413,1,1200,Visa,Gerardo,London,England,United Kingdom,51.53,0.15
+414,1,1200,Visa,Joanne,Oak Park,MI,United States,42.46,-83.18
+415,1,1200,Visa,Margaret,Terrell Hills,TX,United States,29.42,-98.49
+416,1,1200,Visa,Laura,Jumeira,Dubai,United Arab Emirates,25.21,55.25
+417,1,1200,Visa,Whitney,Falmouth,VA,United States,38.32,-77.47
+418,1,1200,Visa,Ravinder,Lurgan,Northern Ireland,United Kingdom,54.47,-6.33
+419,1,1200,Visa,Pam,Richmond,TX,United States,29.58,-95.76
+420,1,1200,Mastercard,Celina,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+421,1,1200,Diners,Heather,Ooltewah,TN,United States,35.08,-85.06
+422,1,1200,Mastercard,Kathryn,Pacific Beach,CA,United States,32.8,-117.24
+423,1,1200,Visa,Michele,Austin,TX,United States,30.27,-97.74
+424,1,1200,Visa,Craig,Seattle,WA,United States,47.61,-122.33
+425,1,1200,Visa,Kim,Seattle,WA,United States,47.61,-122.33
+426,1,1200,Amex,maria,Ottawa,Ontario,Canada,45.42,-75.7
+427,1,1200,Visa,Elaine,Vienna,VA,United States,38.9,-77.27
+428,1,1200,Visa,Madison,Torbay,Auckland,New Zealand,-36.7,174.75
+429,1,1200,Visa,Amanda,Shenfield,England,United Kingdom,51.62,0.32
+430,1,1200,Visa,Krista,Bergen,Hordaland,Norway,60.39,5.32
+431,1,1200,Visa,Sarah,Bolton,England,United Kingdom,53.58,-2.43
+432,1,1200,Mastercard,Sarah,Sandymount,Dublin,Ireland,53.34,-6.21
+433,2,3600,Amex,Pamela,Bellinzona,Ticino,Switzerland,46.2,9.02
+434,1,1200,Visa,Christine,Antwerpen,Antwerpen,Belgium,51.22,4.42
+435,3,7500,Mastercard,Diana,Campinas,Sao Paulo,Brazil,-22.9,-47.08
+436,1,1200,Amex,mary,Nacka,Stockholm,Sweden,59.3,18.17
+437,1,1200,Visa,Helena,Fremont,CA,United States,37.55,-121.99
+438,1,1200,Visa,nina,Warwick,Queensland,Australia,-28.23,152.02
+439,1,1200,Amex,Mark,Holmdel,NJ,United States,40.35,-74.18
+440,1,1200,Visa,alice and rudolf,Baltimore,MD,United States,39.27,-76.53
+441,1,1200,Visa,Costanza,Saggart,Dublin,Ireland,53.28,-6.44
+442,1,1200,Mastercard,Yoko,Andover,MA,United States,42.66,-71.14
+443,1,1200,Mastercard,Barbara,La Crescenta,CA,United States,34.22,-118.24
+444,1,1200,Mastercard,Kit,Suwanee,GA,United States,34.05,-84.07
+445,2,3600,Visa,cristina,Seattle,WA,United States,47.61,-122.33
+446,1,1200,Amex,linda,Arlington,VA,United States,38.89,-77.08
+447,1,1200,Mastercard,Christyna,Calgary,Alberta,Canada,51.08,-114.08
+448,1,1200,Visa,Alicja,Kenmore,WA,United States,47.76,-122.24
+449,1,1200,Visa,Rachel,Fresno,CA,United States,36.75,-119.77
+450,1,1200,Amex,Rachel,Atascadero,CA,United States,35.49,-120.67
+451,1,1200,Visa,Jan,Barcelona,Catalonia,Spain,41.38,2.18
+452,1,1200,Diners,Karin,High Wycombe,England,United Kingdom,51.63,-0.77
+453,2,3600,Amex,ron,Tsaritsyno,Moscow City,Russia,55.63,37.66
+454,1,1200,Mastercard,Sharon,Ajax,Ontario,Canada,43.85,-79.02
+455,1,1200,Mastercard,Anna,New York,NY,United States,40.71,-74.01
+456,1,1200,Mastercard,Laura,Fairfield,IA,United States,41.01,-91.96
+457,1,1200,Visa,Yana,North Bay,Ontario,Canada,46.3,-79.45
+458,1,1200,Visa,Katherine,Marietta,GA,United States,33.95,-84.55
+459,1,1200,Diners,Therese,Clontarf,Dublin,Ireland,53.36,-6.22
+460,1,1200,Amex,Francoise,Danville,PA,United States,40.96,-76.61
+461,2,3600,Amex,Elizabeth,Okotoks,Alberta,Canada,50.72,-113.97
+462,1,1200,Amex,Corinne,Anthem,AZ,United States,33.87,-112.15
+463,1,1200,Visa,Ec,Clonmel,Tipperary,Ireland,52.36,-7.7
+464,1,1200,Visa,Carmen,Arlington,VA,United States,38.89,-77.08
+465,2,3600,Amex,Brittany,Orlando,FL,United States,28.54,-81.38
+466,1,1200,Mastercard,Sandrine,Walnut Creek,CA,United States,37.91,-122.06
+467,1,1200,Mastercard,asuncion,Centennial,CO,United States,39.58,-104.88
+468,1,1200,Visa,Sophie,Newtown,CT,United States,41.41,-73.3
+469,1,1200,Amex,Henrietta,Vancouver,British Columbia,Canada,49.25,-123.13
+470,1,1200,Visa,DD,York,England,United Kingdom,53.97,-1.08
+471,1,1200,Visa,Jennifer,Drogheda,Louth,Ireland,53.72,-6.35
+472,1,1200,Visa,samuel,Saddle Brook,NJ,United States,40.9,-74.09
+473,1,1200,Amex,Angelina  Patrick,San Diego,CA,United States,32.72,-117.16
+474,1,1200,Visa,Sven,Issaquah,WA,United States,47.53,-122.03
+475,1,1200,Visa,Toni,Bolton,England,United Kingdom,53.58,-2.43
+476,1,1200,Visa,Patrick,Lexington,MA,United States,42.45,-71.23
+477,1,1200,Visa,jason,Altadena,CA,United States,34.19,-118.13
+478,1,250,Visa,Tabatha,Altadena,CA,United States,34.19,-118.13
+479,2,3600,Visa,Aline,Davis,CA,United States,38.55,-121.74
+480,2,3600,Visa,Debra,Toronto,Ontario,Canada,43.67,-79.42
+481,1,1200,Mastercard,Natasha,Pasadena,CA,United States,34.15,-118.14
+482,1,1200,Mastercard,Melinda,Buffalo Grove,IL,United States,41.98,-89.6
+483,1,1200,Visa,Luc1nda,London,England,United Kingdom,51.53,0.15
+484,1,1200,Visa,Kim,Newcastle,Wicklow,Ireland,53.07,-6.07
+485,1,1200,Amex,Britlyn,Norwalk,CT,United States,41.12,-73.41
+486,1,1200,Diners,Adam,Besancon,Franche-Comte,France,47.25,6.03
+487,1,1200,Visa,Mimi,Monte-Carlo,,Monaco,43.73,7.42
+488,1,1200,Visa,Liann,Monaco,,Monaco,43.73,7.42
+489,1,1200,Mastercard,Sarah,Floyds Knobs,IN,United States,38.32,-85.87
+490,1,1200,Diners,Naseer,London,England,United Kingdom,51.5,-0.12
+491,1,1200,Amex,Caroline,Marietta,GA,United States,33.95,-84.55
+492,1,1800,Amex,Karena,Marietta,GA,United States,33.95,-84.55
+493,1,1200,Amex,janet,Hon,HI,United States,21.31,-157.86
+494,3,7500,Visa,Hans,Knoxville,TN,United States,35.96,-83.92
+495,1,1200,Visa,Sandra  Thierry  Zoe,Knoxville,TN,United States,35.96,-83.92
+496,1,1200,Mastercard,Eleanor,Edinburgh,Scotland,United Kingdom,55.95,-3.2
+497,1,1200,Visa,Anna,Paris,Ile-de-France,France,48.87,2.33
+498,1,1200,Visa,Cara,Humble,TX,United States,30,-95.26
+499,1,1200,Visa,carolien,Mashpee,MA,United States,41.65,-70.48
+500,1,1200,Mastercard,Ana,Hong Kong,,Hong Kong,22.28,114.15
+501,1,1200,Visa,Patrick,Birmingham,MI,United States,42.55,-83.21
+502,1,1200,Visa,Heidi,St Augustine,FL,United States,29.89,-81.31
+503,1,1200,Visa,Tom,Salt Lake City,UT,United States,40.76,-111.89
+504,1,1200,Amex,Justine,Seattle,WA,United States,47.61,-122.33
+505,1,1200,Visa,isabel,Ruti,Zurich,Switzerland,47.25,8.85
+506,3,7500,Visa,scott,Rogers,AR,United States,36.33,-94.12
+507,1,1200,Visa,Fatima,Rogers,AR,United States,36.33,-94.12
+508,1,1200,Visa,Judy,Dun Laoghaire,Dublin,Ireland,53.29,-6.13
+509,1,1200,Visa,Glenn,Perth,Scotland,United Kingdom,56.4,-3.43
+510,1,1200,Amex,Family in,London,England,United Kingdom,51.51,-0.09
+511,1,1200,Visa,Lauren,Gries,Rhineland-Palatinate,Germany,49.42,7.4
+512,3,7500,Visa,Michael,Pietermaritzburg,KwaZulu-Natal,South Africa,-29.62,30.38
+513,1,1200,Visa,Jodi,Sutton Valence,England,United Kingdom,51.2,0.58
+514,1,1200,Mastercard,simone,Lyngby,Kobenhavn,Denmark,55.77,12.52
+515,1,1200,Diners,Sonja,Alpine,NJ,United States,40.96,-73.93
+516,1,1200,Mastercard,Shane,Zurich,Zurich,Switzerland,47.37,8.55
+517,2,3600,Amex,Ruth,Saskatoon,Saskatchewan,Canada,52.13,-106.67
+518,1,1200,Mastercard,Cleo,Pacific Palisades,CA,United States,34.05,-118.53
+519,1,1200,Diners,Benoit,Fort Saint James,British Columbia,Canada,54.43,-124.25
+520,1,1200,Amex,Claire,Versoix,Geneve,Switzerland,46.28,6.17
+521,1,1200,Visa,Claire,Trumansburg,NY,United States,42.54,-76.67
+522,1,1200,Visa,Lindsey,Kennett Square,PA,United States,39.85,-75.71
+523,2,3600,Visa,Nicola,San Jose,CA,United States,37.34,-121.89
+524,2,3600,Mastercard,PATRICK,Ban Khlong Sip,Krung Thep,Thailand,13.92,100.82
+525,1,1200,Visa,jennifer,Morro Bay,CA,United States,35.37,-120.85
+526,1,1200,Visa,Amy,Parramatta,New South Wales,Australia,-33.82,151
+527,1,1200,Mastercard,Whitney,Dumbleton,England,United Kingdom,52.02,-1.97
+528,1,1200,Visa,Astrid,Altlengbach,Lower Austria,Austria,48.15,15.92
+529,1,1200,Visa,jo,Ballincollig,Cork,Ireland,51.88,-8.58
+530,1,1200,Visa,Michelle,Ballincollig,Cork,Ireland,51.88,-8.58
+531,1,1200,Mastercard,TG,Zagore,Stara Zagora,Bulgaria,42.35,25.67
+532,1,1200,Mastercard,Emily,Vecmilgravis,Riga,Latvia,57.03,24.1
+533,2,3600,Visa,Niki,Trelex,Vaud,Switzerland,46.42,6.2
+534,1,1200,Visa,Sarah,Ornex,Rhone-Alpes,France,46.28,6.1
+535,1,1200,Visa,sherry,Las Vegas,NV,United States,36.18,-115.14
+536,2,3600,Amex,Laura,San Anselmo,CA,United States,37.97,-122.56
+537,1,1200,Mastercard,Carmela,Hannover,Lower Saxony,Germany,52.37,9.72
+538,1,1200,Diners,Matt,N Woodmere,NY,United States,40.66,-73.71
+539,1,1200,Visa,Karen,Madrid,Madrid,Spain,40.4,-3.68
+540,1,1200,Visa,Joanne,Castlebar,Mayo,Ireland,53.85,-9.3
+541,1,1200,Visa,Stephanie,Fairfax,CA,United States,37.99,-122.59
+542,1,1200,Visa,Hurst,Chandler,AZ,United States,33.31,-111.84
+543,1,1200,Visa,Liza,Dammeron Valley,UT,United States,37.13,-113.65
+544,1,1200,Mastercard,Michele,Buffalo,NY,United States,42.89,-78.88
+545,3,7500,Visa,Karin,Olive Branch,MS,United States,34.96,-89.83
+546,1,1200,Amex,cath,Warwick,NY,United States,41.26,-74.36
+547,2,3600,Visa,eva,Gisborne,Victoria,Australia,-37.48,144.58
+548,1,1200,Amex,Andrea,San Mateo,CA,United States,37.56,-122.32
+549,1,1200,Mastercard,Sabine,Milton Keynes,England,United Kingdom,52.03,-0.7
+550,1,1200,Mastercard,Aideen and Jonathan,Kecskemet,Bacs-Kiskun,Hungary,46.9,19.78
+551,1,1200,Visa,George,Nakskov,Storstrom,Denmark,54.83,11.15
+552,1,1200,Visa,Helen,Aloma,FL,United States,28.6,-81.31
+553,1,1200,Diners,C,Chandler,AZ,United States,33.31,-111.84
+554,1,1200,Visa,chris,Kjobenhavn,Staden Kobenhavn,Denmark,55.67,12.58
+555,1,1200,Visa,maggie,Stockton,England,United Kingdom,52.25,-2.7
+556,1,1200,Amex,Mareike,Cumming,GA,United States,34.21,-84.14
+557,1,1200,Visa,lamia,Little Compton,RI,United States,41.51,-71.17
+558,1,1200,Visa,Madhu,Centennial,CO,United States,39.58,-104.88
+559,1,13000,Visa,sandhya,Centennial,CO,United States,39.58,-104.88
+560,1,1200,Amex,Kimberly,Herndon,VA,United States,38.97,-77.39
+561,1,1200,Visa,Tania,Vista,CA,United States,33.2,-117.24
+562,1,1200,Visa,andrea,Oostburg,WI,United States,43.62,-87.79
+563,1,1200,Mastercard,John,Griffith,New South Wales,Australia,-34.28,146.03
+564,2,3600,Visa,carol,Ann Arbor,MI,United States,42.27,-83.73
+565,1,1200,Visa,Nona,South Jordan,UT,United States,40.56,-111.93
+566,2,3600,Visa,Family,Dubai,Dubai,United Arab Emirates,25.25,55.28
+567,2,3600,Visa,Michelle,Dubai,Dubai,United Arab Emirates,25.25,55.28
+568,2,3600,Visa,Kathryn,Kirriemuir,Scotland,United Kingdom,56.67,-3
+569,1,1200,Visa,Oswald,Tramore,Waterford,Ireland,52.16,-7.15
+570,1,1200,Visa,Elyssa,Gdansk,Pomorskie,Poland,54.35,18.67
+571,1,1200,Visa,michelle,Arklow,Wicklow,Ireland,52.79,-6.14
+572,1,1200,Mastercard,Alicia,Lincoln,NE,United States,40.8,-96.67
+573,1,1200,Mastercard,JP,Tierp,Uppsala,Sweden,60.33,17.5
+574,2,3600,Visa,Geraldine,Brussels,Brussels (Bruxelles),Belgium,50.83,4.33
+575,1,1200,Mastercard,sandra,Burr Oak,IA,United States,43.46,-91.87
+576,1,1200,Visa,Olivia,Wheaton,IL,United States,41.87,-88.11
+577,2,3600,Mastercard,Tom,Killeen,TX,United States,31.12,-97.73
+578,1,1200,Visa,Annette,Manhattan,NY,United States,40.71,-74.01
+579,1,1200,Visa,SUSAN,Oxford,England,United Kingdom,51.75,-1.25
+580,2,3600,Visa,Michael,Paris,Ile-de-France,France,48.87,2.33
+581,1,1200,Visa,ashton,Exeter,England,United Kingdom,50.7,-3.53
+582,1,1200,Visa,Scott,Rungsted,Frederiksborg,Denmark,55.88,12.54
+583,2,3600,Visa,Pam,London,England,United Kingdom,51.53,0.15
+584,1,1200,Visa,Lisa,Borja,Bohol,Philippines,9.91,124.09
+585,2,3600,Mastercard,Pavel,London,England,United Kingdom,51.51,-0.09
+586,1,1200,Visa,Richard,Jamestown,RI,United States,41.5,-71.37
+587,1,1200,Visa,Jasinta Jeanne,Owings Mills,MD,United States,39.42,-76.78
+588,1,1200,Visa,Rachel,Hamilton,Ontario,Canada,43.25,-79.83
+589,1,1200,Amex,Cherish,Anchorage,AK,United States,61.22,-149.9
+590,1,1200,Visa,Shona,Mornington,Meath,Ireland,53.72,-6.28
+591,1,1200,Mastercard,Abikay,Fullerton,CA,United States,33.87,-117.92
+592,1,1200,Amex,Abikay,Atlanta,GA,United States,33.75,-84.39
+593,2,3600,Visa,Kendra,Toronto,Ontario,Canada,43.67,-79.42
+594,1,1200,Visa,amanda,Liverpool,England,United Kingdom,53.42,-3
+595,2,3600,Amex,Leila,Ponte San Nicolo,Veneto,Italy,45.37,11.62
+596,1,1200,Amex,amanda,Las Vegas,NV,United States,36.18,-115.14
+597,1,1200,Visa,Stacy,Rochester Hills,MI,United States,42.68,-83.13
+598,2,3600,Visa,Derrick,North Bay,Ontario,Canada,46.3,-79.45
+599,1,1200,Visa,Jacob,Lindfield,New South Wales,Australia,-33.78,151.17
+600,1,1200,Mastercard,DOREEN,Madrid,Madrid,Spain,40.4,-3.68
+601,1,1200,Diners,eugenia,Wisconsin Rapids,WI,United States,44.38,-89.82
+602,1,1200,Visa,Karen,Austin,TX,United States,30.27,-97.74
+603,1,1200,Visa,Bea,Chicago,IL,United States,41.85,-87.65
+604,1,1200,Diners,Hilde Karin,Las Vegas,NV,United States,36.18,-115.14
+605,1,1200,Visa,Rima,Mullingar,Westmeath,Ireland,53.53,-7.35
+606,1,1200,Visa,Ruangrote,Melbourne,Victoria,Australia,-37.82,144.97
+607,1,1200,Amex,pamela,Ayacucho,Buenos Aires,Argentina,-37.15,-58.48
+608,2,3600,Visa,Emillie,Eagan,MN,United States,44.8,-93.17
+609,1,1200,Visa,sangeeta,Vossevangen,Hordaland,Norway,60.63,6.43
+610,1,1200,Visa,Anja,Ferney-Voltaire,Rhone-Alpes,France,46.25,6.12
+611,1,1200,Mastercard,Andrew,Sevilla,Andalucia,Spain,37.38,-5.99
+612,1,1200,Visa,Bato,Munchengosserstadt,Thuringia,Germany,51.05,11.65
+613,1,1200,Mastercard,Ailsa,Lindenhurst,NY,United States,40.69,-73.37
+614,1,1200,Visa,Sophie,Bloomfield,MI,United States,42.54,-83.23
+615,1,1200,Visa,Katrin,Calgary,Alberta,Canada,51.08,-114.08
+616,2,3600,Mastercard,Kelly,Vancouver,British Columbia,Canada,49.25,-123.13
+617,1,1200,Visa,Tomasz,Klampenborg,Kobenhavn,Denmark,55.77,12.6
+618,1,1200,Visa,Elizabeth,Calne,England,United Kingdom,51.43,-2
+619,2,3600,Amex,Michael,Los Angeles,CA,United States,34.05,-118.24
+620,2,3600,Visa,Natasha,Milano,Lombardy,Italy,45.47,9.2
+621,2,3600,Mastercard,Meredith,Kloten,Zurich,Switzerland,47.45,8.58
+622,1,1200,Mastercard,Nicole,Fayetteville,NC,United States,35.05,-78.88
+623,1,1200,Visa,Ryan,Simpsonville,SC,United States,34.74,-82.25
+624,1,1200,Visa,Mary,Auckland,Auckland,New Zealand,-36.87,174.77
+625,1,1200,Diners,Aaron,Reading,England,United Kingdom,51.43,-1
+626,1,1200,Visa,Bertrand,North Caldwell,NJ,United States,40.84,-74.28
+627,1,1200,Mastercard,Zoe,Coventry,England,United Kingdom,52.42,-1.55
+628,1,1200,Mastercard,Trine Marie,Orillia,Ontario,Canada,44.6,-79.42
+629,1,1200,Diners,Kim,Paris,Ile-de-France,France,48.87,2.33
+630,1,1200,Visa,John,San Jose,CA,United States,37.34,-121.89
+631,1,1200,Visa,Rich,Ingelheim-Mitte,Rhineland-Palatinate,Germany,49.98,8.07
+632,1,1200,Diners,Kayla,Leamington Spa,England,United Kingdom,52.3,-1.53
+633,1,1200,Visa,Richard and Comfort,Regensdorf,Zurich,Switzerland,47.43,8.47
+634,1,1200,Visa,Eric,Melbourne,Victoria,Australia,-37.82,144.97
+635,1,1200,Mastercard,Melissa,Geneve,Geneve,Switzerland,46.2,6.17
+636,1,1200,Diners,Dawn,Vaucluse,New South Wales,Australia,-33.87,151.28
+637,1,1200,Mastercard,Tamara,Klosterneuburg,Lower Austria,Austria,48.3,16.32
+638,1,1200,Visa,Ashley,Rancho Cordova,CA,United States,38.59,-121.3
+639,1,1200,Visa,familly,Creemore,Ontario,Canada,44.32,-80.1
+640,1,1200,Mastercard,Ken,Sidcup,England,United Kingdom,51.42,0.12
+641,1,1200,Visa,Tori,Minneapolis,MN,United States,44.98,-93.26
+642,2,3600,Mastercard,Hanne,Phoenix,MD,United States,39.52,-76.62
+643,1,1200,Amex,Precious,Edmonton,Alberta,Canada,53.55,-113.5
+644,1,1200,Visa,Michelle,Lyndoch,South Australia,Australia,-34.62,138.88
+645,1,1200,Visa,Paula,Larchmont,NY,United States,40.93,-73.75
+646,1,1200,Visa,Stephanie,Saint Charles,IL,United States,41.91,-88.31
+647,1,1200,Visa,kemp,Brentwood,TN,United States,36.03,-86.78
+648,2,3600,Diners,Therese,Pensacola,FL,United States,30.42,-87.22
+649,1,1200,Diners,Mona,Kelowna,British Columbia,Canada,49.9,-119.48
+650,1,1200,Visa,Caroline,Toronto,Ontario,Canada,43.67,-79.42
+651,1,1200,Mastercard,Andrea,Brondby Strand,Kobenhavn,Denmark,55.62,12.35
+652,1,1200,Mastercard,Pilar,Florence,Tuscany,Italy,43.77,11.25
+653,1,1200,Visa,Lisa,Perth,Western Australia,Australia,-31.93,115.83
+654,1,1200,Amex,A,Saint Petersburg,FL,United States,27.77,-82.68
+655,1,1200,Mastercard,Yvette,Aubonne,Vaud,Switzerland,46.48,6.4
+656,2,3600,Amex,Katie,Gava,Catalonia,Spain,41.3,2.02
+657,1,1200,Visa,Nicole,Mc Lean,VA,United States,38.94,-77.18
+658,1,1200,Mastercard,Kelly,Hendersonville,TN,United States,36.3,-86.62
+659,2,3600,Visa,george,Zurich,Zurich,Switzerland,47.37,8.55
+660,1,1200,Mastercard,Samantha,Watford,England,United Kingdom,51.67,-0.4
+661,1,1200,Visa,Caterina,Amsterdam,Noord-Holland,Netherlands,52.35,4.92
+662,1,1200,Visa,Kate,Rochester Hills,MI,United States,42.68,-83.13
+663,1,1200,Mastercard,Tina,Anglesea,Victoria,Australia,-38.42,144.17
+664,1,1200,Visa,Emily,Killarney,New Providence,The Bahamas,25.05,-77.42
+665,1,1200,Amex,Maricel,Malibu,CA,United States,34.01,-118.81
+666,1,1200,Visa,Patricia,Allen,TX,United States,33.1,-96.67
+667,1,1200,Mastercard,steve,Evires,Rhone-Alpes,France,46.03,6.23
+668,1,1200,Amex,Darrah,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+669,1,1200,Visa,Sara,Perth City,Western Australia,Australia,-31.93,115.83
+670,1,1200,Visa,Erika,Redruth,England,United Kingdom,50.23,-5.23
+671,1,1200,Visa,Audrey,Bruxelles,Brussels (Bruxelles),Belgium,50.83,4.33
+672,1,1200,Visa,Louise,London,England,United Kingdom,51.53,0.15
+673,1,1200,Diners,Karen,Montreal,Quebec,Canada,45.5,-73.58
+674,1,1200,Amex,Maki,Miami Beach,FL,United States,25.79,-80.13
+675,1,1200,Visa,Peter,Shankill,Dublin,Ireland,53.23,-6.12
+676,1,1200,Diners,Ashlee,Oxford,England,United Kingdom,51.75,-1.25
+677,1,1200,Mastercard,Anja,New York,NY,United States,40.71,-74.01
+678,1,1200,Visa,Ellen Walton,Melbourne,Victoria,Australia,-37.82,144.97
+679,1,1200,Mastercard,Jessica,Woodland Hills,CA,United States,34.17,-118.61
+680,1,1200,Visa,Wouter and Andrea,Anchorage,AK,United States,61.22,-149.9
+681,1,1200,Visa,Pam and Rob,Yorba Linda,CA,United States,33.89,-117.81
+682,1,1200,Visa,Elsa,Waiwera,Auckland,New Zealand,-36.55,174.72
+683,1,1200,Amex,kathleen kane,Jamaica Plain,MA,United States,42.31,-71.12
+684,1,1200,Diners,Selene,Oslo,Oslo,Norway,59.92,10.75
+685,1,1200,Visa,Christy,Setagaya,Tokyo,Japan,35.63,139.65
+686,2,3600,Visa,Hanna Agla,Donauworth,Bayern,Germany,48.7,10.8
+687,1,1200,Visa,Elyse,Bandon,Cork,Ireland,51.75,-8.74
+688,1,1200,Mastercard,Alexis,Ehingen an der Donau,Baden-Wurttemberg,Germany,48.28,9.73
+689,1,1200,Visa,M George,Paris,Ile-de-France,France,48.87,2.33
+690,1,1200,Visa,John,Banbury,England,United Kingdom,52.05,-1.33
+691,1,1200,Visa,cheryl,Beverly Hills,CA,United States,34.07,-118.4
+692,1,1200,Amex,R,Danderyd,Stockholm,Sweden,59.42,18.02
+693,2,3600,Visa,Charlene,Sebastopol,CA,United States,38.4,-122.82
+694,1,1200,Visa,Cindy,Glendora,CA,United States,34.14,-117.86
+695,1,1200,Visa,Ed,Nacka,Stockholm,Sweden,59.3,18.17
+696,1,1200,Mastercard,Astrid,Canterbury,England,United Kingdom,51.27,1.08
+697,1,1200,Visa,Nicole,Neuchatel,Neuchatel,Switzerland,47,6.97
+698,1,1200,Visa,Maria Macarena,Billings,MT,United States,45.78,-108.5
+699,1,1200,Visa,Maggie,Libertyville,IL,United States,42.28,-87.95
+700,2,3600,Amex,Christophe,Temecula,CA,United States,33.49,-117.15
+701,1,1200,Diners,Manoj,Boise,ID,United States,43.61,-116.2
+702,1,1200,Visa,Brenda,Rock Hill,SC,United States,34.92,-81.03
+703,1,1200,Mastercard,Lizelle,Mililani,HI,United States,21.43,-157.96
+704,2,3600,Visa,Kees en Valesca,Scamander,Tasmania,Australia,-41.47,148.26
+705,1,1200,Visa,Cormac,Freeport City,Freeport,The Bahamas,26.53,-78.7
+706,1,1200,Visa,jacqueline,North Vancouver,British Columbia,Canada,49.32,-123.07
+707,1,1200,Visa,Martin,Ludwigsburg,Baden-Wurttemberg,Germany,48.9,9.18
+708,1,1200,Mastercard,Dean,Rockingham,Western Australia,Australia,-32.28,115.72
+709,1,1200,Visa,VERBENA,Basel,Basel-Town,Switzerland,47.57,7.6
+710,1,1200,Mastercard,Angel Marie,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+711,1,1200,Visa,olla,Westminster,CO,United States,39.84,-105.04
+712,2,3600,Visa,Eman,Penclawdd,Wales,United Kingdom,51.63,-4.1
+713,2,3600,Visa,Julia,Ede,Gelderland,Netherlands,52.03,5.67
+714,1,1200,Visa,Sarah,Plan-les-Ouattes,Geneve,Switzerland,46.17,6.12
+715,1,1200,Visa,Esther,Stocksund,Stockholm,Sweden,59.38,18.07
+716,1,1200,Diners,amy,Stuttgart,Baden-Wurttemberg,Germany,48.77,9.18
+717,2,3600,Mastercard,Jyoti,Tunbridge Wells,England,United Kingdom,51.13,0.28
+718,2,3600,Visa,Keri,Issaquah,WA,United States,47.53,-122.03
+719,1,1200,Diners,Paul,Burnaby,British Columbia,Canada,49.25,-122.95
+720,1,1200,Mastercard,Attie,Cypress,CA,United States,33.82,-118.04
+721,1,1200,Visa,odile,Lititz,PA,United States,40.16,-76.31
+722,1,1200,Visa,gail,London,England,United Kingdom,51.53,0.15
+723,1,1200,Visa,Niki,Chadds Ford,PA,United States,39.87,-75.59
+724,2,3600,Visa,Danny,St Thomas,VI,United States,18.36,-64.92
+725,1,1200,Mastercard,Sarah,Coppell,TX,United States,32.95,-97.01
+726,1,1200,Visa,Beckie,Ladera Ranch,CA,United States,33.57,-117.64
+727,1,1200,Visa,Maryse,Rathfarnham,Dublin,Ireland,53.3,-6.28
+728,2,3600,Mastercard,don,Cagliari,Sardinia,Italy,39.22,9.12
+729,1,1200,Visa,Majken,Charlottenlund,Kobenhavn,Denmark,55.75,12.58
+730,1,1200,Amex,Karen and Andrew,Munchen,Bayern,Germany,49.55,11.58
+731,1,1200,Visa,Katerina,Firenze,Tuscany,Italy,43.77,11.25
+732,1,1200,Mastercard,Mary,Baile Atha Bui,Meath,Ireland,53.62,-6.92
+733,1,1200,Visa,Oscar,Chamonix-Mont-Blanc,Rhone-Alpes,France,45.92,6.87
+734,1,1200,Diners,Suejean,Gingins,Vaud,Switzerland,46.4,6.18
+735,1,1200,Amex,ann,Boca Raton,FL,United States,26.36,-80.08
+736,1,1200,Visa,Renee,Chaska,MN,United States,44.79,-93.6
+737,1,1200,Visa,Catherine,Hghlnds Ranch,CO,United States,39.61,-105.02
+738,1,1200,Amex,Rhonda,Atlanta,GA,United States,33.75,-84.39
+739,1,1200,Amex,alix,Tenafly,NJ,United States,40.93,-73.96
+740,1,1200,Visa,Mike,Aberdeen,Scotland,United Kingdom,57.13,-2.1
+741,1,1200,Visa,Diane,Djurgarden,Stockholm,Sweden,59.32,18.12
+742,1,1200,Visa,Sigrun,Nashville,TN,United States,36.17,-86.78
+743,1,1200,Visa,Dania,Munich,Bayern,Germany,48.15,11.58
+744,2,3600,Mastercard,Kelsi,Utrecht,Utrecht,Netherlands,52.08,5.13
+745,1,1200,Visa,Maria,Boyceville,WI,United States,45.04,-92.04
+746,1,1200,Visa,Bent Erik,Basauri,Pais Vasco,Spain,43.02,-2.4
+747,1,1200,Amex,Kirsten,Melbourne,Victoria,Australia,-37.82,144.97
+748,1,1200,Visa,Dickson,Kemerburgaz,Istanbul,Turkey,41.16,28.91
+749,1,1200,Diners,Howard,Worcester,England,United Kingdom,52.2,-2.2
+750,1,1200,Visa,Dana,Thurles,Tipperary,Ireland,52.68,-7.8
+751,1,1200,Mastercard,Nola,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+752,1,1200,Visa,Elizabeth,Cos Cob,CT,United States,41.03,-73.6
+753,2,3600,Visa,minjeong,Bern,Bern,Switzerland,46.92,7.47
+754,1,1200,Visa,Matt,Leicester,England,United Kingdom,52.63,-1.13
+755,1,1200,Visa,Vanessa,Cornwall,Ontario,Canada,45.02,-74.73
+756,2,3600,Visa,Charlotte,Sterling,VA,United States,39.01,-77.43
+757,1,1200,Visa,Rowena,Cork,Cork,Ireland,51.9,-8.5
+758,1,1200,Visa,Catherine,Mount Forest,Ontario,Canada,43.97,-80.73
+759,1,1200,Mastercard,Sarah,Ridgefield,CT,United States,41.28,-73.5
+760,1,1200,Visa,sorcha,Porto Alegre,Rio Grande do Sul,Brazil,-30.03,-51.2
+761,1,1200,Visa,sorcha,Cartierville,Quebec,Canada,45.53,-73.72
+762,1,1200,Mastercard,Mary,Stuttgart,Baden-Wurttemberg,Germany,48.77,9.18
+763,1,1200,Visa,Ronja,Manhattan,NY,United States,40.71,-74.01
+764,1,1200,Visa,Nicola,Sneem,Kerry,Ireland,51.83,-9.9
+765,1,1200,Amex,BURCAK,Alpharetta,GA,United States,34.08,-84.29
+766,1,1200,Visa,isabelle,Sainte-Therese-de-Blainville,Quebec,Canada,45.63,-73.85
+767,1,1200,Mastercard,christy,Germantown,TN,United States,35.09,-89.81
+768,1,1200,Visa,Lilly,Castleknock,Dublin,Ireland,53.38,-6.39
+769,1,1200,Diners,Mandy,Hono,HI,United States,21.31,-157.86
+770,1,1200,Mastercard,Elena,New Rochelle,NY,United States,40.91,-73.78
+771,1,1200,Visa,Lolarae,Calgary,Alberta,Canada,51.08,-114.08
+772,1,1200,Mastercard,Lisa,South Waterford,ME,United States,44.18,-70.72
+773,1,1200,Mastercard,Nita and Trebor,Washington Township,OH,United States,39.76,-84.19
+774,1,1200,Visa,Jenevieve,Guelph,Ontario,Canada,43.55,-80.25
+775,2,3600,Mastercard,Piret,Bunbury,Western Australia,Australia,-33.33,115.63
+776,1,1200,Mastercard,Damian,Mettlach,Saarland,Germany,49.5,6.6
+777,1,1200,Mastercard,Lusell,Oberwil,Basel-Country,Switzerland,47.52,7.55
+778,1,1200,Visa,Costanza,Beykoz,Istanbul,Turkey,41.14,29.09
+779,1,1200,Visa,Vanessa,Arc-et-Senans,Franche-Comte,France,47.03,5.77
+780,1,1200,Diners,Evelyn,Grossbodungen,Thuringia,Germany,51.47,10.5
+781,1,1200,Amex,Nicola,Bruxelles,Brussels (Bruxelles),Belgium,50.83,4.33
+782,1,1200,Visa,Simone,Kilcornan,Limerick,Ireland,52.62,-8.88
+783,1,1200,Mastercard,Elisabeth,Wilmington,NC,United States,34.23,-77.95
+784,1,1200,Visa,Kasey,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France,43.53,5.43
+785,2,3600,Amex,Olympe,Lidingo,Stockholm,Sweden,59.37,18.13
+786,1,1200,Visa,James,Edmonton,Alberta,Canada,53.55,-113.5
+787,1,1200,Visa,Alyssa,Antibes,Provence-Alpes-Cote d'Azur,France,43.58,7.12
+788,1,1200,Visa,Reto,Seattle,WA,United States,47.61,-122.33
+789,1,1200,Amex,Joelle,Rowayton,CT,United States,41.12,-73.41
+790,1,1200,Mastercard,Nicole,Simcoe,Ontario,Canada,42.83,-80.3
+791,1,1200,Mastercard,Alexandria,Lebanon,PA,United States,40.34,-76.41
+792,1,1200,Mastercard,Elisabeth,Birkdale,Queensland,Australia,-27.48,153.22
+793,1,1200,Visa,Ann,Brisbane,Queensland,Australia,-27.5,153.02
+794,1,1200,Visa,Olga,Strasbourg,Alsace,France,48.58,7.75
+795,1,1200,Visa,Courtney,Suchdol,Prague,Czech Republic,50.13,14.38
+796,1,1200,Visa,stacy,Stuttgart,Baden-Wurttemberg,Germany,48.77,9.18
+797,2,3600,Amex,Monica,Villanova,PA,United States,40.04,-75.35
+798,2,3600,Visa,Michael,Norrkoping,Ostergotland,Sweden,58.6,16.18
+799,1,1200,Visa,Katrin,Zumikon,Zurich,Switzerland,47.33,8.62
+800,2,3600,Mastercard,Louise,Balgach,St Gallen,Switzerland,47.42,9.6
+801,1,1200,Amex,Alfredo A,Las Vegas,NV,United States,36.18,-115.14
+802,2,3600,Visa,Kerry,Prague,Central Bohemia,Czech Republic,50.08,14.47
+803,1,1200,Visa,Saeko,Warwick,NY,United States,41.26,-74.36
+804,2,3600,Visa,VIOLETA,Silver Spring,MD,United States,38.99,-77.03
+805,1,1200,Visa,Antje,Sacramento,CA,United States,38.58,-121.49
+806,1,1200,Visa,janet,Blarney,Cork,Ireland,51.93,-8.57
+807,1,1200,Visa,claire,Ballyneety,Limerick,Ireland,52.6,-8.55
+808,1,1200,Mastercard,Nathalie,Haymarket,VA,United States,38.81,-77.64
+809,1,1200,Mastercard,Daria,George Town,,Cayman Isls,19.3,-81.38
+810,1,1200,Visa,Judith L.,Scottsdale,AZ,United States,33.51,-111.9
+811,1,1200,Visa,Audinet,Cambridge,MA,United States,42.38,-71.11
+812,1,1200,Visa,William,Chalfont Saint Peter,England,United Kingdom,51.6,-0.55
+813,1,1200,Diners,Tatjana and Martin,Birmingham,England,United Kingdom,52.47,-1.92
+814,1,1200,Mastercard,Scott,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+815,3,7500,Mastercard,Brona,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+816,1,1200,Mastercard,Andree,Newmarket,Cork,Ireland,52.22,-9
+817,1,1200,Visa,Aziz,Irpin',Kiev,Ukraine,50.52,30.25
+818,1,1200,Visa,Fernando,Grosseto,Tuscany,Italy,42.77,11.13
+819,1,1200,Visa,Jo,Pembroke Pines,FL,United States,26.01,-80.15
+820,1,1200,Visa,Joern,Waterford,Ontario,Canada,42.93,-80.28
+821,2,3600,Visa,Melissa,Carouge,Geneve,Switzerland,46.18,6.13
+822,1,1200,Visa,Melissa,Chester,CT,United States,41.4,-72.45
+823,1,1200,Mastercard,isabela,Reston,VA,United States,38.97,-77.34
+824,1,1200,Visa,Nacole,Milan,Lombardy,Italy,45.47,9.2
+825,1,1200,Diners,Jennifer,Vancouver,British Columbia,Canada,49.25,-123.13
+826,1,1200,Diners,Mary,Alpharetta,GA,United States,34.08,-84.29
+827,1,1200,Visa,Lisa,Ringgold,GA,United States,34.92,-85.11
+828,1,1200,Diners,Debora,Wall,NJ,United States,40.15,-74.21
+829,2,3600,Mastercard,Karoline,Powell River,British Columbia,Canada,49.88,-124.55
+830,2,3600,Mastercard,Jo,Huntington Beach,CA,United States,33.66,-118
+831,1,1200,Amex,Kristen,Los Gatos,CA,United States,37.23,-121.97
+832,2,3600,Visa,Astrid,Oslo,Oslo,Norway,59.92,10.75
+833,1,1200,Mastercard,Malinda,Oxford,England,United Kingdom,51.75,-1.25
+834,1,1200,Amex,Sylvia,Alexandria,VA,United States,38.8,-77.05
+835,1,1200,Visa,Jupiterlina Elika,Rome,Lazio,Italy,41.9,12.48
+836,1,1200,Visa,Aniko,Random Lake,WI,United States,43.55,-87.96
+837,1,1200,Mastercard,Petra,San Francisco,CA,United States,37.78,-122.42
+838,1,1200,Mastercard,Heather,Baluan,General Santos,Philippines,6.1,125.22
+839,1,1200,Mastercard,Kim,Brussels,Brussels (Bruxelles),Belgium,50.83,4.33
+840,1,1200,Amex,Ruby,Bedford Corners,NY,United States,41.2,-73.73
+841,1,1200,Visa,Novy,Istanbul,Istanbul,Turkey,41.02,28.96
+842,2,3600,Visa,Stephanie,Hilversum,Noord-Holland,Netherlands,52.23,5.18
+843,1,1200,Mastercard,Tammy,Milford,ME,United States,44.95,-68.64
+844,1,1200,Visa,Alessandra,Vancouver,British Columbia,Canada,49.25,-123.13
+845,1,1200,Mastercard,Cathy,Kidderminster,England,United Kingdom,52.38,-2.25
+846,2,3600,Visa,Scott,Lausanne,Vaud,Switzerland,46.53,6.67
+847,1,1200,Amex,dia,Claygate,England,United Kingdom,51.35,-0.35
+848,1,1200,Visa,Lauren,Laasby,Arhus,Denmark,56.15,9.82
+849,1,1200,Visa,Line,Budaors,Pest,Hungary,47.45,18.97
+850,1,1200,Amex,Sean,London,England,United Kingdom,51.53,0.15
+851,1,1200,Diners,Sarah,Santo Domingo City,Distrito Nacional,Dominican Republic,18.47,-69.9
+852,1,1200,Visa,Brian,Croton On Hudson,NY,United States,41.22,-73.89
+853,1,1200,Mastercard,Lesa,Vespasiano,Minas Gerais,Brazil,-19.67,-43.92
+854,1,1200,Mastercard,james,Nashville,TN,United States,36.17,-86.78
+855,1,1200,Mastercard,loudon,Ottawa,Ontario,Canada,45.42,-75.7
+856,1,1200,Mastercard,Allison,Naples,FL,United States,26.14,-81.8
+857,1,1200,Mastercard,Surat,Bridgewater,NJ,United States,40.59,-74.62
+858,2,3600,Mastercard,Judy,Washington,DC,United States,38.9,-77.04
+859,1,1200,Diners,brian,Hagen,Lorraine,France,49.5,6.17
+860,1,1200,Visa,Rachel,Taicheng,Guangdong,China,22.25,112.78
+861,1,1200,Mastercard,Hilde,Groningen,Groningen,Netherlands,53.22,6.55
+862,1,1200,Mastercard,Tarja,Villars,Vaud,Switzerland,46.3,7.05
+863,1,1200,Visa,Megan,Huntersville,NC,United States,35.41,-80.84
+864,2,3600,Visa,Charmain,Cartersburg,IN,United States,39.7,-86.46
+865,1,1200,Visa,Katharina,Flower Mound,TX,United States,33.01,-97.1
+866,1,1200,Visa,Zaneta,Rochester,MI,United States,42.68,-83.13
+867,1,1200,Visa,Jeannette,Dubai,Dubai,United Arab Emirates,25.25,55.28
+868,2,3600,Visa,Liz,Langnau,Zurich,Switzerland,47.28,8.53
+869,2,3600,Mastercard,Christiane,Mission,British Columbia,Canada,49.13,-122.3
+870,1,1200,Visa,Cherie,Columbus,OH,United States,39.96,-83
+871,2,3600,Visa,Shiree,Clondalkin,Dublin,Ireland,53.32,-6.4
+872,1,1200,Mastercard,Tracey,Harold's Cross,Dublin,Ireland,53.33,-6.29
+873,1,1200,Diners,Scott,Sag Harbor,NY,United States,41,-72.29
+874,1,1200,Visa,Frances,San Diego,CA,United States,32.72,-117.16
+875,1,1200,Mastercard,Beatrice,Wilmington,DE,United States,39.75,-75.55
+876,2,3600,Visa,Jessica,Toronto,Ontario,Canada,43.67,-79.42
+877,1,1200,Amex,Alison,Issaquah,WA,United States,47.61,-122.2
+878,1,1200,Visa,elaine,Phuket,Phuket,Thailand,7.88,98.4
+879,1,1200,Visa,Chevonne,Athina,Attiki,Greece,37.98,23.73
+880,1,1200,Visa,danielle,Geneve,Geneve,Switzerland,46.2,6.17
+881,1,1200,Mastercard,Caroline and Jonathan,Chichester,England,United Kingdom,50.83,-0.78
+882,1,1200,Visa,manuela,Massagno,Ticino,Switzerland,46.02,8.95
+883,1,1200,Visa,Carole,Cardiff,Wales,United Kingdom,51.5,-3.2
+884,2,3600,Amex,Ghislaine,Ferney-Voltaire,Rhone-Alpes,France,46.25,6.12
+885,2,3600,Visa,Christian,Mableton,GA,United States,33.82,-84.58
+886,1,1200,Visa,Hollie,San Diego,CA,United States,32.72,-117.16
+887,1,1200,Visa,mike,La Louviere,Hainaut,Belgium,50.47,4.18
+888,1,1200,Mastercard,Malahat,Minneapolis,MN,United States,44.98,-93.26
+889,1,1200,Amex,Michaela,Mafra,Santa Catarina,Brazil,-26.12,-49.8
+890,1,1200,Amex,Amy,Ashford,England,United Kingdom,51.13,0.88
+891,1,1200,Mastercard,Brandi,Edmonton,Alberta,Canada,53.55,-113.5
+892,1,1200,Visa,erin,London,England,United Kingdom,51.53,0.15
+893,1,1200,Diners,Tracy,Lucca,Tuscany,Italy,43.83,10.48
+894,1,1200,Visa,Polyxene,Perth,Western Australia,Australia,-31.93,115.83
+895,2,3600,Mastercard,Jean,Arlington,VA,United States,38.89,-77.08
+896,1,1200,Diners,Andrea,Calgary,Alberta,Canada,51.08,-114.08
+897,1,1200,Mastercard,Jessica,Chiefland,FL,United States,29.47,-82.86
+898,1,1200,Mastercard,David,Stavenger,Rogaland,Norway,58.97,5.75
+899,2,3600,Mastercard,Caroline,Begnins,Vaud,Switzerland,46.43,6.25
+900,1,1200,Visa,Riche Lou,Newton,MA,United States,42.34,-71.21
+901,1,1200,Mastercard,Chris,Den Haag,Zuid-Holland,Netherlands,52.08,4.3
+902,2,3600,Visa,Karen,Berikon,Aargau,Switzerland,47.35,8.38
+903,1,1200,Diners,melanie,Santa Barbaraa,Heredia,Costa Rica,10.03,-84.15
+904,1,1200,Visa,beatrice,Churra,Murcia,Spain,38.02,-1.13
+905,1,1200,Mastercard,lorna,Castle Rock,CO,United States,39.37,-104.86
+906,1,1200,Amex,Tary,Zug,Zug,Switzerland,47.17,8.52
+907,1,1200,Visa,Julie,Ashford,England,United Kingdom,51.1,-4.1
+908,1,1200,Amex,Julie,Rockville,MD,United States,39.08,-77.15
+909,1,1200,Mastercard,Jerome,Madrid,Madrid,Spain,40.4,-3.68
+910,1,1200,Visa,Laleh,Aasgaardstrand,Vestfold,Norway,59.35,10.47
+911,1,1200,Visa,Michael,Milano,Lombardy,Italy,45.47,9.2
+912,1,1200,Visa,Kerry,Anieres,Geneve,Switzerland,46.28,6.22
+913,3,7500,Mastercard,Anita,Fresno,TX,United States,29.54,-95.45
+914,1,1200,Mastercard,Veronique,Fresno,TX,United States,29.54,-95.45
+915,1,1200,Visa,Sarah,Warwick,Quebec,Canada,45.95,-71.98
+916,1,1200,Diners,Simone,Watford,England,United Kingdom,51.67,-0.4
+917,1,1200,Visa,Jackie,Waterford,Waterford,Ireland,52.26,-7.11
+918,1,1200,Visa,giovanna,Pruszkow,Mazowieckie,Poland,52.17,20.83
+919,1,1200,Visa,Elizabeth,Hamilton,Hamilton,Bermuda,32.29,-64.78
+920,2,3600,Visa,Lisa,Ottawa,Ontario,Canada,45.42,-75.7
+921,1,1200,Mastercard,Maki,Montgomery,TX,United States,30.39,-95.7
+922,1,1200,Amex,Anjan,Tokyo,Tokyo,Japan,35.69,139.75
+923,1,1200,Mastercard,Sarah,Manteno,IL,United States,41.25,-87.83
+924,1,1200,Mastercard,Niamh,Benoni,Gauteng,South Africa,-26.18,28.32
+925,2,3600,Diners,elizabeth r,Winter Haven,FL,United States,28.02,-81.73
+926,1,1200,Visa,Elaine,Tranby,Buskerud,Norway,59.82,10.25
+927,1,1200,Diners,Elizabeth,Cork,Cork,Ireland,51.9,-8.5
+928,1,1200,Visa,Sara,Fort Lauderdale,FL,United States,26.12,-80.14
+929,2,3600,Amex,Tulin,Cranberry Twp,PA,United States,40.69,-80.13
+930,1,1200,Visa,Kenneth,Arlington,VA,United States,38.89,-77.08
+931,1,1200,Mastercard,Fiona,Lake Ronkonkoma,NY,United States,40.84,-73.13
+932,1,1200,Visa,Christian,Alexandria,VA,United States,38.8,-77.05
+933,3,7500,Diners,Michel,Lipari,Sicilia,Italy,38.47,14.95
+934,3,7500,Diners,natalie,Lipari,Sicilia,Italy,38.47,14.95
+935,1,1200,Diners,jure,Lipari,Sicilia,Italy,38.47,14.95
+936,1,1200,Amex,Elizabeth,Bluffton,SC,United States,32.24,-80.86
+937,1,1200,Amex,Juliann,Winter Spgs,FL,United States,28.7,-81.31
+938,1,1200,Mastercard,Julie,Chelmsford,MA,United States,42.6,-71.37
+939,1,1200,Mastercard,philippa katherine,Cabinteely,Dublin,Ireland,53.26,-6.14
+940,2,3600,Mastercard,Anthony,Toronto,Ontario,Canada,43.67,-79.42
+941,1,1200,Visa,matthew,Cincinnati,OH,United States,39.16,-84.46
+942,1,1200,Visa,Steven,Houston,TX,United States,29.76,-95.36
+943,1,1200,Amex,Angie,Rodeo,CA,United States,38.02,-122.29
+944,1,1200,Mastercard,Lauren,Poughkeepsie,NY,United States,41.7,-73.92
+945,1,1200,Mastercard,Esther,Cincinnati,OH,United States,39.16,-84.46
+946,1,1200,Visa,Elizabeth,North Eastham,MA,United States,41.87,-69.99
+947,2,3600,Visa,marie-louise,Sitka,AK,United States,57.05,-135.33
+948,2,3600,Mastercard,Tanya,Carcross,Yukon Territory,Canada,60.18,-134.72
+949,1,1200,Mastercard,Detlev,Taby,Stockholm,Sweden,59.5,18.05
+950,2,3600,Visa,Stephen,Calgary,Alberta,Canada,51.08,-114.08
+951,1,1200,Visa,Roza,Alcobendas,Madrid,Spain,40.53,-3.63
+952,2,3600,Amex,John,Chicago,IL,United States,41.85,-87.65
+953,1,1200,Mastercard,paula,Sammamish,WA,United States,47.64,-122.08
+954,1,1200,Visa,Kathryn,Waiau Pa,Auckland,New Zealand,-37.13,174.75
+955,1,1200,Mastercard,Isabelle,Ewa Beach,HI,United States,21.32,-158.01
+956,1,1200,Visa,Maureen,Statesville,NC,United States,35.78,-80.89
+957,1,1200,Visa,David,Kapaa,HI,United States,22.08,-159.32
+958,1,1200,Diners,caterina,Burbank,CA,United States,34.18,-118.31
+959,2,3600,Mastercard,Parth,Oegstgeest,Zuid-Holland,Netherlands,52.18,4.47
+960,1,1200,Visa,Alexia,Blackrock,Dublin,Ireland,53.3,-6.18
+961,2,3600,Mastercard,Gloria Gail,WalcCee,Tyrol,Austria,47.65,12.32
+962,1,1200,Visa,Gloria Gail,Foxrock,Dublin,Ireland,53.27,-6.17
+963,2,3600,Mastercard,Cheryl,Hilton Head,SC,United States,32.22,-80.75
+964,3,7500,Visa,Frank and Christelle,Valley Center,CA,United States,33.22,-117.03
+965,2,3600,Mastercard,Triona,Swampscott,MA,United States,42.47,-70.92
+966,1,1200,Visa,Allison,Edinburgh,Scotland,United Kingdom,55.95,-3.2
+967,1,1200,Diners,Phillip,San Antonio,TX,United States,29.42,-98.49
+968,1,1200,Visa,jingyan,Bristol,RI,United States,41.68,-71.27
+969,2,3600,Diners,clara,Perth,Western Australia,Australia,-31.93,115.83
+970,1,1200,Mastercard,Selma,Greenville,TX,United States,33.14,-96.11
+971,1,1200,Visa,Doug and Tina,Pls Vrds Est,CA,United States,33.8,-118.39
+972,1,1200,Visa,Lauren,Hradec Kralove,East Bohemia,Czech Republic,50.21,15.84
+973,1,1200,Visa,Jen,Maidstone,England,United Kingdom,51.27,0.52
+974,1,1200,Visa,gladys,Saint Albans,England,United Kingdom,51.75,-0.33
+975,1,1200,Mastercard,Gustavo,Voluntari,Bucuresti,Romania,44.47,26.13
+976,1,1200,Visa,Erica,Nadur,,Malta,36.04,14.29
+977,1,1200,Diners,Hale,Morrison,CO,United States,39.65,-105.19
+978,1,1200,Visa,Rosemary,Cobham,England,United Kingdom,51.38,0.4
+979,1,1200,Visa,Darian,Izmir,Izmir,Turkey,38.41,27.15
+980,1,1200,Mastercard,Kevin,Hollywood,CA,United States,34.1,-118.33
+981,1,1200,Visa,Alyssa,Brighton,England,United Kingdom,50.83,-0.15
+982,1,1200,Visa,Hale,Hawera,Taranaki,New Zealand,-39.59,174.28
+983,1,1200,Mastercard,KELI,Worongary,Queensland,Australia,-28.05,153.35
+984,1,1200,Visa,Glen,Atlantida,Guatemala,Guatemala,14.65,-90.48
+985,1,1200,Visa,T,El Escorial,Madrid,Spain,40.58,-4.12
+986,1,1200,Visa,christal,Morrison,CO,United States,39.65,-105.19
+987,1,1200,Mastercard,Alex,Augusta,GA,United States,33.52,-82.08
+988,2,3600,Mastercard,Anke,Avalon,New South Wales,Australia,-33.63,151.33
+989,2,3600,Mastercard,TRICIA,Sydney,New South Wales,Australia,-33.88,151.22
+990,1,1200,Mastercard,smith,Lahti,Etela-Suomen Laani,Finland,60.97,25.67
+991,1,1200,Visa,Macy,Inner City,Vienna,Austria,48.22,16.37
+992,1,1200,Mastercard,Lesleigh,Baden,Aargau,Switzerland,47.47,8.3
+993,2,3600,Diners,esther,Huddersfield,England,United Kingdom,53.65,-1.78
+994,1,1200,Visa,Hans-Joerg,Belfast,Northern Ireland,United Kingdom,54.58,-5.93
+995,2,3600,Visa,Christiane,Black River,Black River,Mauritius,-20.36,57.37
+996,3,7500,Amex,Pamela,Skaneateles,NY,United States,42.95,-76.43
+997,1,1200,Diners,julie,Haverhill,England,United Kingdom,52.08,0.43
+998,1,1200,Visa,Julia,Madison,WI,United States,43.07,-89.4

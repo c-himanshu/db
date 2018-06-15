@@ -1,0 +1,10 @@
+id int
+product_id int 
+price int 
+payment_type varchar50 
+name varchar50 
+city varchar50
+state varchar50
+cname varchar50
+latitude dbl
+longitude dbl

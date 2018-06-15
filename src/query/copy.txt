@@ -1,0 +1,93 @@
+//go over joins and create fetches if required
+    auto &joins = queryNode.joins;
+    vector<FetchSpec> joinFetches;
+    vector<string> joinConstraints;
+    for (auto &j : joins)
+    {
+        auto constraint = j.condition;
+        if(j.joinOp == "left_outer") constraint = j.joinOp+"|"+constraint;
+        joinConstraints.push_back((constraint));
+        auto fetchPair = StringUtil::splitJoinConstraint(constraint);
+        if (fetchPair.first.empty())
+        {
+            throw InvalidQueryException("Invalid join constraint.");
+        }
+        auto firsttblColPair = util::StringUtil::extractTableColumnNames(fetchPair.first);
+        auto secondtblColPair = util::StringUtil::extractTableColumnNames(fetchPair.second);
+        
+        for (auto &tblFetch : fetches)
+        {
+            if( tblFetch.getTableName() == firsttblColPair.first &&
+               ! util::Collections::containerHasValue(tblFetch.getColumnNames(), firsttblColPair.second)
+               ){
+                auto cspecOpt = dbCatalogPtr->getColumnSpecForTable(firsttblColPair.second, firsttblColPair.first);
+                if(!cspecOpt)
+                    throw NoSuchEntryException(firsttblColPair.second, true /*column*/);
+                tblFetch.addColumnToFetch(cspecOpt.get(), fetchPair.first);
+                joinFetches.push_back(tblFetch);
+            }
+            if( tblFetch.getTableName() == secondtblColPair.first &&
+               ! util::Collections::containerHasValue(tblFetch.getColumnNames(), secondtblColPair.second)
+               ){
+                auto cspecOpt = dbCatalogPtr->getColumnSpecForTable(secondtblColPair.second, secondtblColPair.first);
+                if(!cspecOpt)
+                    throw NoSuchEntryException(secondtblColPair.second, true /*column*/);
+                tblFetch.addColumnToFetch(cspecOpt.get(), fetchPair.second);
+                joinFetches.push_back(tblFetch);
+            }
+        }
+    }
+    
+    //    model::RelationSet joinFetchResults;
+    //    std::set<string> acceptVals;
+    //    for (auto &jfetch : joinFetches)
+    //    {
+    //        //execute query for table
+    //        auto rows = getDataFromTable(jfetch, dbCatalogPtr);
+    //        debug("appending to join results " + queryNode.str());
+    //        joinFetchResults.appendColumnInfo(jfetch.computedColumnInfo());
+    //        joinFetchResults.appendData(rows);
+    //        for (const auto &r : rows)
+    //        {
+    //            for (auto pos : jfetch.getColPositions())
+    //                acceptVals.insert(r[pos]);
+    //        }
+    //
+    //    }
+    if(joins.size()){
+        handleJoins(fetches, joinFetches, joinConstraints, dbCatalogPtr, localResults);
+    }else {
+        for (auto &tblFetch : fetches)
+        {
+            //tblFetch.print(std::cout); std::cout << endl;
+            //execute query for table
+            auto rows = getDataFromTable(tblFetch, dbCatalogPtr);
+            //debug("appending to local results " + queryNode.str());
+            auto fetchedColInfo = tblFetch.computedColumnInfo();
+            localResults.appendColumnInfo(fetchedColInfo);
+            localResults.appendData(rows);
+        }
+    }
+    //filter out based on join constraint
+    //    if (acceptVals.size())
+    //    {
+    //        auto clinfo = localResults.getColumnInfo();
+    //        for (auto cl : clinfo)
+    //        {
+    //            for (auto &jfetch : joinFetches)
+    //                if (Collections::containerHasValue(jfetch.getColumnNames(), cl.getColumnName()))
+    //                {
+    //                    localResults.removeWhereColValueDifferent(cl.getColumnPosition(), acceptVals);
+    //                }
+    //            //std::cout << cl.getColumnName() << " $ ";
+    //        }
+    //    }
+    // std::cout << endl;
+    //whatever was not consumed by all the fetches
+    //goes into children
+    for (auto rc : resultCols)
+        colsFromChildren.push_back(rc);
+    for (auto wc : whereConditions)
+        whereOnChildren.push_back(wc);
+    // for (auto gb : groupByCols)
+    //     groupByOnChildren.push_back(gb);
